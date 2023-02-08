@@ -1,0 +1,15 @@
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\bin\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.deps.json
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\bin\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.runtimeconfig.json
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\bin\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.runtimeconfig.dev.json
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\bin\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.dll
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\bin\Debug\net5.0\ref\UnitOfWork.EntityLayer.UpSchool.dll
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\bin\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.pdb
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\obj\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.csproj.AssemblyReference.cache
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\obj\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\obj\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.AssemblyInfoInputs.cache
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\obj\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.AssemblyInfo.cs
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\obj\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.csproj.CoreCompileInputs.cache
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\obj\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.dll
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\obj\Debug\net5.0\ref\UnitOfWork.EntityLayer.UpSchool.dll
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\obj\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.pdb
+C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\obj\Debug\net5.0\UnitOfWork.EntityLayer.UpSchool.genruntimeconfig.cache

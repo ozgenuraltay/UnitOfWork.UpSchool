@@ -8,6 +8,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using UnitOfWork.BusisnessLayer.UpSchool.Abstract;
+using UnitOfWork.BusisnessLayer.UpSchool.Concrete;
+using UnitOfWork.DataAccessLayer.UpSchool.Abstract;
+using UnitOfWork.DataAccessLayer.UpSchool.Concrete;
+using UnitOfWork.DataAccessLayer.UpSchool.EntityFramework;
+using UnitOfWork.DataAccessLayer.UpSchool.UnitOfWork;
 
 namespace UnitOfWork.PresentationLayer.UpSchool
 {
@@ -23,6 +29,16 @@ namespace UnitOfWork.PresentationLayer.UpSchool
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IAccountDAL, EFAccountDAL>();
+            services.AddScoped<IAccountService, AccountManager>();
+
+            services.AddScoped<IProcessDetailDAL, EFProcessDetailDAL>();
+            services.AddScoped<IProcessDetailService, ProcessDetailManager>();
+
+            services.AddScoped<IUnitOfWorkDAL, UnitOfWorkDAL>();
+
+            services.AddDbContext<Context>();
+
             services.AddControllersWithViews();
         }
 

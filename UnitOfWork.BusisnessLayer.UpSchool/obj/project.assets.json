@@ -1519,6 +1519,35 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "UnitOfWork.DataAccessLayer.UpSchool/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
+          "UnitOfWork.EntityLayer.UpSchool": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnitOfWork.DataAccessLayer.UpSchool.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnitOfWork.DataAccessLayer.UpSchool.dll": {}
+        }
+      },
+      "UnitOfWork.EntityLayer.UpSchool/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
+        },
+        "compile": {
+          "bin/placeholder/UnitOfWork.EntityLayer.UpSchool.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnitOfWork.EntityLayer.UpSchool.dll": {}
+        }
       }
     }
   },
@@ -5787,6 +5816,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "UnitOfWork.DataAccessLayer.UpSchool/1.0.0": {
+      "type": "project",
+      "path": "../UnitOfWork.DataAccessLayer.UpSchool/UnitOfWork.DataAccessLayer.UpSchool.csproj",
+      "msbuildProject": "../UnitOfWork.DataAccessLayer.UpSchool/UnitOfWork.DataAccessLayer.UpSchool.csproj"
+    },
+    "UnitOfWork.EntityLayer.UpSchool/1.0.0": {
+      "type": "project",
+      "path": "../UnitOfWork.EntityLayer.UpSchool/UnitOfWork.EntityLayer.UpSchool.csproj",
+      "msbuildProject": "../UnitOfWork.EntityLayer.UpSchool/UnitOfWork.EntityLayer.UpSchool.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5794,7 +5833,9 @@
       "Microsoft.EntityFrameworkCore >= 5.0.17",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.17",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.17",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.17"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.17",
+      "UnitOfWork.DataAccessLayer.UpSchool >= 1.0.0",
+      "UnitOfWork.EntityLayer.UpSchool >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5832,7 +5873,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.DataAccessLayer.UpSchool\\UnitOfWork.DataAccessLayer.UpSchool.csproj": {
+              "projectPath": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.DataAccessLayer.UpSchool\\UnitOfWork.DataAccessLayer.UpSchool.csproj"
+            },
+            "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool.csproj": {
+              "projectPath": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
