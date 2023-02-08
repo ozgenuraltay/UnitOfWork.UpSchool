@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NNPRGqQ00p9cHHG7gDtGKE+rz9HCp/7d5bXfxDTDpKDnmE4TibZvANvkh3zAUrrcY4EucaIMqB43tYVP4PyKXQ==",
+  "dgSpecHash": "Xyi25ng2vU5AldH580C+efZJjjkKfX52DTZxeiMERk9Pzgq6XGofMnwg/uj/eO6A3wuBh5WJxJod2+TGwLJLwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.PresentationLayer.UpSchool.csproj",
+  "projectFilePath": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.UpSchool\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.PresentationLayer.UpSchool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ozgen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ozgen\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

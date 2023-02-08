@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YcdkaI+rfNmV+A1gEOnm8C0WeymGdrLaEDj9B0G0AXflLAPqCXF2oFDdm3wuZpsMjN/hcKsPdbU5B1P4WAIcow==",
+  "dgSpecHash": "+g24IuVi6t3UbIie+uXy8zw8FErElJrgt4Qq0yl3siad5CQiqWRbOqCzfOwho9QrR0+2RLlCcz53UBJxjXmm6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.BusisnessLayer.UpSchool\\UnitOfWork.BusisnessLayer.UpSchool.csproj",
+  "projectFilePath": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.UpSchool\\UnitOfWork.BusisnessLayer.UpSchool\\UnitOfWork.BusisnessLayer.UpSchool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ozgen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ozgen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

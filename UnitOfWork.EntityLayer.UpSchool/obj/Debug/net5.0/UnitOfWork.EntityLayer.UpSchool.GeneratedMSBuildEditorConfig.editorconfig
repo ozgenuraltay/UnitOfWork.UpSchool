@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = UnitOfWork.EntityLayer.UpSchool
-build_property.ProjectDir = C:\Users\ozgen\source\repos\UnitOfWork.PresentationLayer.UpSchool\UnitOfWork.EntityLayer.UpSchool\
+build_property.ProjectDir = C:\Users\ozgen\source\repos\UnitOfWork.UpSchool\UnitOfWork.EntityLayer.UpSchool\

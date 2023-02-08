@@ -5805,11 +5805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool.csproj",
+      "projectUniqueName": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.UpSchool\\UnitOfWork.EntityLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool.csproj",
       "projectName": "UnitOfWork.EntityLayer.UpSchool",
-      "projectPath": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool.csproj",
+      "projectPath": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.UpSchool\\UnitOfWork.EntityLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool.csproj",
       "packagesPath": "C:\\Users\\ozgen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.PresentationLayer.UpSchool\\UnitOfWork.EntityLayer.UpSchool\\obj\\",
+      "outputPath": "C:\\Users\\ozgen\\source\\repos\\UnitOfWork.UpSchool\\UnitOfWork.EntityLayer.UpSchool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
